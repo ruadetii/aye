@@ -1,0 +1,105 @@
+.z1{
+    color: blue;
+}
+
+
+.z2 {
+    list-style-type: none;
+    text-decoration: none;
+    color: blue;
+}
+.z2 li{
+    border: 1px solid blue;
+    margin-bottom: 5px;
+    text-align: left;
+    background-color: white;
+    width: 150px;
+}
+.z2 li:hover{
+border: 2px solid blue;
+}
+
+.z3{
+    width: 150px;
+    list-style-type: none;
+    color: white;
+}
+.z3 li{
+    border: 2px solid black;
+    margin-bottom: 5px;
+    text-align: left;
+    background-color: rgb(0, 132, 255);
+    width: 150px;
+}
+.z3 li{
+    background-color: white;
+    color: blue;
+}
+.z3 li:hover:after{content: "✈︎"; color: white;}
+.z3 li:hover{
+    background: rgb(0, 132, 255);;
+}
+.sam{
+    color: rgb(0, 132, 255);
+}
+.z4 li{
+    display: inline-block;
+    border: 1px solid blue;
+    color: blue;
+}
+.z4 li:hover{
+    color: red;
+}
+.z5 li{
+    display: inline-block;
+    border: 1px solid blue;
+    color: blue;
+}
+.z5 li:hover{
+    color: white;
+    background-color: rgb(80, 80, 80);
+    border: 1px solid black;
+}
+
+.z7{
+    padding: 0;
+    margin: 0;
+}
+.z7 li{
+    display: inline-block;
+}
+.z7{
+    background: orange;
+}
+.z7 li, .z7 li a{
+    display: inline-block;
+}
+.z7 li a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 20px;
+}
+.z7 li a:hover{
+    background: brown;
+}
+.z6 li{
+    display: block;
+    width: 150px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    color: white;
+    background-color: rgb(93, 93, 93);
+}
+.z6 li:hover{
+    color: black;
+    background-color: white;
+}
+.z8 li{
+    display: inline-block;
+    color: grey;
+}
+.z8 li:hover{
+    color: aqua;
+}

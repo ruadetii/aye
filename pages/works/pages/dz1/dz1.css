@@ -1,0 +1,95 @@
+.content{
+    width: 60%;
+    margin: 0 auto;
+    
+}
+.ph1{
+    background: url(../dz1/img/Снимок\ экрана\ 2025-05-28\ в\ 14.45.48.png);
+    width: 220px;
+    height: 310px;
+    border: 2px solid black;
+    }
+.ph2{
+    background: url(../dz1/img/Снимок\ экрана\ 2025-05-28\ в\ 14.52.38.png);
+    width: 220px;
+    height: 310px;
+    border: 2px solid black;
+}
+.ph3{
+    background: url(../dz1/img/Снимок\ экрана\ 2025-05-28\ в\ 14.57.02.png);
+    width: 220px;
+    height: 310px;
+    border: 2px solid black;
+}
+.ph4{
+    background: url(../dz1/img/Снимок\ экрана\ 2025-05-28\ в\ 16.01.38.png);
+    width: 220px;
+    height: 310px;
+    border: 2px solid black;
+}
+.ph5{
+    background: url(../dz1/img/Снимок\ экрана\ 2025-05-28\ в\ 16.04.21.png);
+    width: 220px;
+    height: 310px;
+    border: 2px solid black;
+
+}
+.ph6{
+    background: url(../dz1/img/Снимок\ экрана\ 2025-05-28\ в\ 16.07.55.png);
+    width: 220px;
+    height: 310px;
+    border: 2px solid black;
+
+}
+.ph7{
+    background: url(../dz1/img/Снимок\ экрана\ 2025-05-28\ в\ 16.11.49.png);
+    width: 220px;
+    height: 310px;
+    border: 2px solid black;
+
+}
+.ph8{
+    background: url(../dz1/img/Снимок\ экрана\ 2025-05-28\ в\ 16.14.42.png);
+    width: 220px;
+    height: 310px;
+    border: 2px solid black;
+
+}
+.ph9{
+    background: url(../dz1/img/Снимок\ экрана\ 2025-05-28\ в\ 16.17.58.png);
+    width: 220px;
+    height: 310px;
+    border: 2px solid black;
+
+}
+
+section{
+    display: flex;
+    
+}
+article p{
+    text-align: center;
+}
+article div{
+    margin: 20px;
+}
+article h4 a{
+    vertical-align: 30px;
+    color: white;
+    text-decoration: none;
+}
+article h4{
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    background: black;
+    line-height: 30px;
+    
+}
+article h4 a:hover{
+    background: white;
+    color: black;
+}
+article{
+    margin: auto;
+}
